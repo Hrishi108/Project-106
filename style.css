@@ -1,0 +1,37 @@
+body{
+    font-family:'Almarai', cursive;
+    background-color: cyan;  
+    }
+     
+    .header_div{
+        background-color: black;
+        color: deeppink;  
+    }
+    .header_div p{
+    font-family:'Noto Sans Traditional Chinese', cursive;
+    letter-spacing:2px;  
+    font-size: 12px;
+    }
+    .main_div button{
+    font-family:'Noto Sans Traditional Chinese', cursive;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;  
+    }
+    .copy_right_footer{
+    position: fixed;    
+    color: deeppink;
+    background-color: black;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px purple;
+    font-size: 18px;
+     
+    }
+
+    
+     
+    
+    
